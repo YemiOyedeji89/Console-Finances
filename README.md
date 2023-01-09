@@ -19,11 +19,11 @@ This report is generated using JavaScript programming language to analysize and 
 ## How to run locall
 * Install Visual Studio Code
 * Clone the repository - 
-** Navigate to main page of the Repository
-** clinck on the 'Code'
-** Copy the SSH line to run on the Terminal or  the HTTPS 
+* Navigate to main page of the Repository
+* Click on the 'Code'
+* Copy the SSH line to run on the Terminal or  the HTTPS 
 
 ## links
-* Deployed Page URL: "git@github.com:YemiOyedeji89/Console-Finances.git"
+
 ## Web Page Screenshots
 
