@@ -22,8 +22,16 @@ This report is generated using JavaScript programming language to analysize and 
 * Click on the 'Code'
 * Copy the SSH line to run on the Terminal or  the HTTPS link
 * Clone the repository - 
+![Git clone](./starter/assests/images/gitClone.jpg)
 
 ## links
 ### Deployed Url: [CLO-Finance](https://yemioyedeji89.github.io/Console-Finances/).
 ## Web Page Screenshots
+![CLO-Finance webpage](./starter/assests/images/ScreenshotCLOFinance.jpg)
+
+## Contribute
+If you want to learn more about git clone. you can seek inspiration from the below:
+### External files
+[Github Docs](https://docs.github.com/en/repositories)
+
 
