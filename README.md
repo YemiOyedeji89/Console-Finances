@@ -16,7 +16,7 @@ This report is generated using JavaScript programming language to analysize and 
  * The greatest increase in profit month to month for the time period.
  * The greates decrease in losses month to month for the time period.
 
-## How to run locall
+## How to run project on local machine
 * Install Visual Studio Code
 * Clone the repository - 
 * Navigate to main page of the Repository
@@ -24,6 +24,6 @@ This report is generated using JavaScript programming language to analysize and 
 * Copy the SSH line to run on the Terminal or  the HTTPS 
 
 ## links
-### Deployed Url: ![CLO-Finance]("https://yemioyedeji89.github.io/Console-Finances/")
+### Deployed Url: [CLO-Finance](https://yemioyedeji89.github.io/Console-Finances/).
 ## Web Page Screenshots
 
