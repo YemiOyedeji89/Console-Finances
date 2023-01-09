@@ -24,6 +24,6 @@ This report is generated using JavaScript programming language to analysize and 
 * Copy the SSH line to run on the Terminal or  the HTTPS 
 
 ## links
-### Deployed Url: ![CLO-Fianances]("https://yemioyedeji89.github.io/Console-Finances/")
+### Deployed Url: [CLO-Fianance]("https://yemioyedeji89.github.io/Console-Finances/")
 ## Web Page Screenshots
 
