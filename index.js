@@ -89,13 +89,13 @@ var finances = [
 ['Feb-2017', 671099]
 ];
 
-var newFinanceTable = finances;
-var netTotalAmt = 0;
-var avgProfitLoss = 0;
-var previousMth = 0;
-var totalProfitLoss = 0;
-monthsTotal = finances.length;
-netChangeArray = [];
+let newFinanceTable = finances;
+let netTotalAmt = 0;
+let avgProfitLoss = 0;
+let previousMth = 0;
+let totalProfitLoss = 0;
+let monthsTotal = finances.length;
+let netChangeArray = [];
 
 
 //////// calculating the number of months in array///////////
@@ -146,8 +146,8 @@ for (n = 0; n <newFinanceTable.length; n++){
 }
 
 /// finding the greatest % increase in profit value and month
-var lastEntry = newFinanceTable.length -1;
-var greatestGrowthMonth = (newFinanceTable[lastEntry][0]);
+let lastEntry = newFinanceTable.length -1;
+let greatestGrowthMonth = (newFinanceTable[lastEntry][0]);
 greatestGrowth = ( newFinanceTable[lastEntry][2]);
  
 /// finding greatest decrease in profit
@@ -186,5 +186,3 @@ document.getElementById("grtDecrease").innerHTML = "Greatest loss in profit: " +
 
 //////////////// logging the New finance table with order by  %growth increasing
 //console.table(newFinanceTable);
-
-
